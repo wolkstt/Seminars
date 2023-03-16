@@ -145,7 +145,6 @@ int[] CreateRandomArray(int size, int minValue, int maxValue)
 
 }
 int S = 0;
-                                                                       //int[] B = new int[10];
 for(int i = 0; i < A.Length; i++)
         {
             if (A[i] % 2 == 0)
@@ -153,23 +152,7 @@ for(int i = 0; i < A.Length; i++)
         }
 
         Console.WriteLine(S);
-                                                                       // B = A;
 
-                                                                       // B[3] = 1000; 
-                                                                       // B[5] = 33;
-                                                                       // B[8] = 777;  
-                                                                       // ShowArray(B);
-
-// {
-//         int[] array = new int[size];                                // резерв место для массива под названием array (любое название) размером size
-
-//         for(int i = 0; i < size; i++)                                                                   
-//            {                                                        //array[i] = new Random().Next(minValue, maxValue + 1); 
-//             Console.Write("Введите значание': ");
-//         array[i] =  Convert.ToInt32(Console.ReadLine());
-//            }
-//         return array;
-// }
 
 void ShowArray(int[] array)
 {
@@ -179,8 +162,8 @@ void ShowArray(int[] array)
         Console.WriteLine();
 }
 
-*/
 //
+*/
 //-----------------------------------------------------------------------------------------------------------------------------
 //
 /* Задача 36: Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
