@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\bin\Debug\net6.0\DomZ.exe
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\bin\Debug\net6.0\DomZ.deps.json
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\bin\Debug\net6.0\DomZ.runtimeconfig.json
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\bin\Debug\net6.0\DomZ.dll
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\bin\Debug\net6.0\DomZ.pdb
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\obj\Debug\net6.0\DomZ.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\obj\Debug\net6.0\DomZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\obj\Debug\net6.0\DomZ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\obj\Debug\net6.0\DomZ.AssemblyInfo.cs
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\obj\Debug\net6.0\DomZ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\obj\Debug\net6.0\DomZ.dll
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\obj\Debug\net6.0\refint\DomZ.dll
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\obj\Debug\net6.0\DomZ.pdb
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\obj\Debug\net6.0\DomZ.genruntimeconfig.cache
+C:\Users\User\Desktop\Seminars\ZnakYazProg\DomZ\obj\Debug\net6.0\ref\DomZ.dll
